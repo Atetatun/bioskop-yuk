@@ -2,7 +2,7 @@
 Aplikasi Pemesanan Tiket Bioskop Berbasis GUI (Python Tkinter)
 
 ## Anggota Kelompok
-1. **Ita** (Ketua / Koordinator & Kerangka Utama GUI)
+1. **Ita** (Kerangka Utama GUI)
 2. **Repa** (Katalog Film & Jadwal Tayang)
 3. **Viron** (Sistem Pemilihan Kursi Interaktif)
 4. **Apriyanti** (Logika Perhitungan Harga & Diskon)
